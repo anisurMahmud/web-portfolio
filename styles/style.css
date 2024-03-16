@@ -1,0 +1,23 @@
+body{
+    font-family: "Truculenta", sans-serif;
+    padding: 50px;
+}
+h1{
+    font-size: 30px;
+}
+.normal{
+    font-size: 15px;
+    width: 10px;
+}
+.half-width{
+    padding: 20px;
+}
+.profile-pic{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.about-me{
+    float: left;
+
+}
