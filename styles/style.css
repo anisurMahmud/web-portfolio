@@ -5,6 +5,8 @@ body{
     /*background-image: url("../images/background-pic.jpg");*/
     background-color: seashell;
     background-size: 100%;
+    opacity: 0;
+    transition: opacity 3s;
 }
 h1{
     font-size: 30px;
@@ -23,6 +25,9 @@ section{
     /*border: 2px dashed black;*/
 
 }
+/* section:hover{
+    opacity: 100;
+} */
 .normal{
     font-size: 15px;
     width: 10px;
