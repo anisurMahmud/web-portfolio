@@ -6,7 +6,7 @@ body{
     background-color: seashell;
     background-size: 100%;
     opacity: 0;
-    transition: opacity 3s;
+    transition: opacity 3s ease-in-out;
 }
 h1{
     font-size: 30px;
