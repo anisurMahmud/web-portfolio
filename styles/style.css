@@ -9,7 +9,8 @@ body{
     transition: opacity 3s ease-in-out;
 }
 h1{
-    font-size: 30px;
+    font-size: 32px;
+    font-weight: bold;
 }
 h2{
     font-size: 20px;
@@ -64,26 +65,12 @@ section{
     background-image: url("../images/background-pic.jpg");
     background-size: 100%;
 }
-.link-button{
-    font-size: small;
-    /*border: 2px dashed black;*/
-    text-decoration: none;
-    border-radius: 40%;
-    width: 10px;
-    height: 10px;
-    background-color: antiquewhite;
-    box-shadow: 4px 4px 10px grey;
 
-}
 #box{
     height: 150px;
     width: 450px;
 }
-.pic-borders{
-    border-radius: 10px;
-    object-fit: cover;
 
-}
 footer{
     border-top: 2px solid grey;
 }
