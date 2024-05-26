@@ -82,3 +82,8 @@ footer div{
 footer p, a{
     font-size: small;
 }
+
+.image-size {
+    height: 50% ;
+    width: 50% ;
+}
